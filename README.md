@@ -6,10 +6,10 @@ See https://en.wikipedia.org/wiki/Stakeholder_analysis
 
 Contents:
 * <a href="start">Start</a>
-* <a name="options">Options</a>
-* <a name="power-interest-grid">Power-interest grid</a>
-* <a name="how-to-identify-stakeholders">How to identify stakeholders</a>
-* <a name="stakeholder-example-roles">Stakeholder example roles</a>
+* <a href="options">Options</a>
+* <a href="power-interest-grid">Power-interest grid</a>
+* <a href="how-to-identify-stakeholders">How to identify stakeholders</a>
+* <a href="stakeholder-example-roles">Stakeholder example roles</a>
 
 
 <h2><a name="start">Start</a></h2>
