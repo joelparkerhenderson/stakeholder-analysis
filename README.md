@@ -74,29 +74,10 @@ Useful questions to identify stakeholders:
 
 Stakeholders example roles to consider:
 
-* Employees
-* Managers
-* Directors
-* Prospects
-* Customers
-* Contractors
-* Counselors
-* Competitors
-* Collaborators
-* Distributors
-* Suppliers
-* Shareholders
-* Partners
-* Financiers
-* Retailers
-* Advocates
-* Activists
-* Reporters
-* Polititcians
-* Unions
-* Trade groups
-* Government groups
-* Professional industry groups
-* Special interest groups
-* Media press groups
-* Communities
+* Employees e.g. Workers, Managers, Directors
+* Purchasers e.g. Customers, Resellers, Retailers
+* Partners e.g. Suppliers, Distributors, Contractors
+* Advisors e.g. Counselors, Collaborators, Investors
+* Regulators e.g. Auditors, Legislators, Officers
+* Writers e.g. Reporters, Reviewers, Researchers
+* Others e.g. Competitors, Shareholders, Activists
