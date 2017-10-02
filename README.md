@@ -1,6 +1,6 @@
 # Stakeholder analysis
 
-Stakeholder analysis is how a business project management team researaches who is involved with the project, why, and what they want.
+Stakeholder analysis for business project management means figuring who's involved and why.
 
 See https://en.wikipedia.org/wiki/Stakeholder_analysis
 
