@@ -1,6 +1,18 @@
 # Stakeholder analysis
 
+Stakeholder analysis is how a business project management team researaches who is involved with the project, why, and what they want.
+
 See https://en.wikipedia.org/wiki/Stakeholder_analysis
+
+Contents:
+* <a href="start">Start</a>
+* <a name="options">Options</a>
+* <a name="power-interest-grid">Power-interest grid</a>
+* <a name="how-to-identify-stakeholders">How to identify stakeholders</a>
+* <a name="stakeholder-example-roles">Stakeholder example roles</a>
+
+
+<h2><a name="start">Start</a></h2>
 
 Stakeholder analysis starts by gathering this information:
 
@@ -12,11 +24,14 @@ Stakeholder analysis starts by gathering this information:
 * Role on the project
 * Key concerns (e.g. goals, needs, issues, interests, opinions)
 * Key offerings (e.g. skills, resources, controls, connections)
-* Relevant suggestions (e.g. for experiments, tests, scopes, boundaries)
+* Relevant suggestions (e.g. for people, processes, tools, scopes)
 * Relevant analyses (e.g. SBS, OKR, KPI, VSM, SMART, SWOT, PEST, RAID)
 * Relevant relationships (e.g. with stakeholders, projects, organizaitons)
 
-Optionally estimate any of these concepts on a scale of 1ow, medium, high:
+
+<h2><a name="options">Options</a></h2>
+
+Estimate any of these concepts on a scale of 1ow, medium, high:
 
 * Power
 * Interest
@@ -31,7 +46,7 @@ Optionally estimate any of these concepts on a scale of 1ow, medium, high:
 * Necessity of involvement
 
 
-## Power-interest grid
+<h2><a name="power-interest-grid">Power-interest grid</a></h2>
 
 A power-interest grid is a quick easy way to visualize stakeholder salience a.k.a. priority.
 
@@ -43,17 +58,21 @@ Example: <a href="power-interest-grid.html">power-interest-grid.html</a>
 You can position each stakeholder on the grid.
 
 
-## How to identify stakeholders
+<h2><a name="how-to-identify-stakeholders">How to identify stakeholders</a></h2>
 
 Useful questions to identify stakeholders:
 
 * Who has skills?
 * Who has resources?
 * Who has controls, such as approvals, governance, etc.?
-& Who has connections, such as relationships, partners, etc.?
+* Who has connections, such as relationships, partners, etc.?
 * Who has influence?
+* Who gains or loses because of this project?
 
-Stakeholders ideas to consider:
+
+<h2><a name="stakeholder-example-roles">Stakeholder example roles</a></h2>
+
+Stakeholders example roles to consider:
 
 * Employees
 * Managers
