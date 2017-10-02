@@ -79,5 +79,5 @@ Stakeholders example roles to consider:
 * Partners e.g. Suppliers, Distributors, Contractors
 * Advisors e.g. Counselors, Collaborators, Investors
 * Regulators e.g. Auditors, Legislators, Officers
-* Writers e.g. Reporters, Reviewers, Researchers
+* Authors e.g. Reporters, Reviewers, Researchers
 * Others e.g. Competitors, Shareholders, Activists
