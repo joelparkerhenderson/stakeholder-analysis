@@ -4,15 +4,15 @@ Stakeholder analysis for business project management means figuring who's involv
 
 See https://en.wikipedia.org/wiki/Stakeholder_analysis
 
-Contents:
-* <a href="start">Start</a>
-* <a href="options">Options</a>
-* <a href="power-interest-grid">Power-interest grid</a>
-* <a href="how-to-identify-stakeholders">How to identify stakeholders</a>
-* <a href="stakeholder-example-roles">Stakeholder example roles</a>
+TOC:
+* [Start](#start)
+* [Options](#options)
+* [Power-interest grid](#power-interest-grid)
+* [How to identify stakeholders](#how-to-identify-stakeholders)
+* [Stakeholder example roles](#stakeholder-example-roles)
 
 
-<h2><a name="start">Start</a></h2>
+## Start
 
 Stakeholder analysis starts by gathering this information:
 
@@ -29,7 +29,7 @@ Stakeholder analysis starts by gathering this information:
 * Relevant analysis (e.g. <a href="https://github.com/joelparkerhenderson/strategic_business_scorecard">SBS</a>, <a href="https://github.com/joelparkerhenderson/objectives_and_key_results">OKR</a>, <a href="https://github.com/joelparkerhenderson/key_performance_indicator">KPI</a>, <a href="https://github.com/joelparkerhenderson/value_stream_mapping">VSM</a>, <a href="https://github.com/joelparkerhenderson/smart_criteria">SMART</a>, SWOT, PEST, RAID)
 
 
-<h2><a name="options">Options</a></h2>
+## Options
 
 Estimate any of these concepts on a scale of 1ow, medium, high:
 
@@ -46,7 +46,7 @@ Estimate any of these concepts on a scale of 1ow, medium, high:
 * Necessity of involvement
 
 
-<h2><a name="power-interest-grid">Power-interest grid</a></h2>
+## Power-interest grid
 
 A power-interest grid is a quick easy way to visualize stakeholder salience a.k.a. priority.
 
@@ -58,7 +58,7 @@ Example: <a href="power-interest-grid.html">power-interest-grid.html</a>
 You can position each stakeholder on the grid.
 
 
-<h2><a name="how-to-identify-stakeholders">How to identify stakeholders</a></h2>
+## How to identify stakeholders
 
 Useful questions to identify stakeholders:
 
@@ -70,7 +70,7 @@ Useful questions to identify stakeholders:
 * Who gains or loses because of this project?
 
 
-<h2><a name="stakeholder-example-roles">Stakeholder example roles</a></h2>
+## Stakeholder example roles
 
 Stakeholders example roles to consider:
 
