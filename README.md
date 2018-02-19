@@ -26,7 +26,18 @@ Stakeholder analysis starts by gathering this information:
 * Key offerings (e.g. skills, resources, controls, connections)
 * Relevant suggestions (e.g. for people, processes, tools, scopes)
 * Relevant relationships (e.g. with stakeholders, projects, organizaitons)
-* Relevant analysis (e.g. <a href="https://github.com/joelparkerhenderson/strategic_business_scorecard">SBS</a>, <a href="https://github.com/joelparkerhenderson/objectives_and_key_results">OKR</a>, <a href="https://github.com/joelparkerhenderson/key_performance_indicator">KPI</a>, <a href="https://github.com/joelparkerhenderson/value_stream_mapping">VSM</a>, <a href="https://github.com/joelparkerhenderson/smart_criteria">SMART</a>, SWOT, PEST, RAID)
+* Relevant analysis (e.g. 
+  [SBS](https://github.com/joelparkerhenderson/strategic_business_scorecard), 
+  [OKR](https://github.com/joelparkerhenderson/objectives_and_key_results), 
+  [KPI](https://github.com/joelparkerhenderson/key_performance_indicator), 
+  [CSF](https://github.com/joelparkerhenderson/critical_success_factor),
+  [RAM](https://github.com/joelparkerhenderson/responsibility_assigment_matrix),
+  [VSM](https://github.com/joelparkerhenderson/value_stream_mapping), 
+  [SMART](https://github.com/joelparkerhenderson/smart_criteria), 
+  SWOT,
+  PEST, 
+  RAID
+  )
 
 
 ## Options
